@@ -1,0 +1,7 @@
+ActiveDot = white
+InactiveDot = rgba(53,188,69,0.69);
+dotRadius = rgba(5,152,244,0.14);
+background = black;
+
+
+
